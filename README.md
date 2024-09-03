@@ -7,6 +7,7 @@ Install Python: Ensure you have Python installed on your machine. You can downlo
 Save the Script: Save the provided Python script to a file named project1.py.
 
 Run the Script: Open a terminal or command prompt, navigate to the directory where rock_paper_scissors.py is saved, and run the script using the following command:
+
 python project1.py
 
 Play the Game: Follow the prompts to enter your choice. Type 0 for Rock, 1 for Paper, or 2 for Scissors. The computer will then display its choice and the outcome of the game.
